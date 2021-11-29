@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://syairhk502.github.io/kode1/sitemap.xml
